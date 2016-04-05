@@ -1,0 +1,22 @@
+body {
+	background-color: #A2B352;
+}
+
+#moremargins {
+	margin-top: 100px;
+	font-size: 200%;
+}
+
+#hours {
+	padding: 0px;
+	margin: 0px;
+	font-size: 150px;
+	color: rgba(255, 255, 255, 1);
+}
+
+p {
+	text-align: center;
+	color: rgba(255, 255, 255, 1);
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	font-size: 150%;
+}

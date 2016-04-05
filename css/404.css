@@ -1,0 +1,16 @@
+#details {
+	padding: 30px 30px 30px 30px;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+#potato {
+	text-align: center;
+}
+
+#uhoh {
+	padding: 30px 30px 0px 30px; 
+	font-size: 200%; 
+	text-align: center;
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+}

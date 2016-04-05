@@ -1,0 +1,15 @@
+div {
+	font-family: "Century Gothic", Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+
+
+div:first-child {
+	margin: 20px;
+	font-size: 300%;
+
+}
+
+div:nth-child(2) {
+	font-size: 150%;
+}

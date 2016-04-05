@@ -1,0 +1,182 @@
+/* 
+theme color: #A2B352
+gray: #E8E8E8
+*/
+table {
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+	text-align: center;
+	margin: auto;
+}
+
+section table tr td a div {
+	width: auto;
+	text-align: center;
+}
+
+#signup table {
+	width: auto;
+}
+
+.story div {
+	height: 100%;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 125px;
+}
+
+#top {
+	background: url("/imgs/backgrounds/bg.png");
+	background-position: center;
+	background-size: 100%;
+	text-align: center;
+	height: 455px;
+}
+
+.story {
+	height: 1000px;
+	padding: 0;
+	margin: 0 auto;
+	width: 100%;
+	position: relative:
+}
+
+#first {
+	background: url("/imgs/backgrounds/teach.jpg") 50% 0 no-repeat fixed;
+	background-size: cover;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+#second {
+	background: url("/imgs/backgrounds/learn.jpg") 50% 0 no-repeat fixed;
+	background-size: cover;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+#third {
+	background: url("/imgs/backgrounds/connect.jpg") 50% 0 no-repeat fixed;
+	background-size: cover;
+	color: rgba(255, 255, 255, 0.6);
+}
+
+#signup {
+	height: 150px;
+	background: url("/imgs/backgrounds/signup.png");
+	background-size: cover;
+}
+
+#signup div {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 130%;
+	padding: 5px 30px;
+	border-radius: 100px;
+	background-color: #BCC882;
+	color: #FFFFFF;
+	
+	transition: all ease .2s;
+	-moz-transition: all ease .2s;
+	-webkit-transition: all ease .2s;
+	-o-transition: all ease .2s;
+	-ms-transition: all ease .2s;
+}
+
+#signup a div:hover {
+	background-color: #A2B352;
+}
+
+footer {
+	width: 100%;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+footer div {
+	display: inline;
+}
+
+footer div:first-child {
+	margin: 10px;
+	float: left;
+}
+
+footer div:nth-child(2) {
+	margin: 10px;
+	float: right;
+}
+
+
+/*
+#coverphoto {
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	background-image: url("../imgs/bg.png");
+	background-size: 100% 400px;	
+	background-repeat: no-repeat;
+}
+
+#social {
+	text-align: center;
+}
+
+#social a:link {
+	color: #FFFFFF;
+}
+
+#social a:visited {
+	color: #FFFFFF;
+}
+
+#social a:hover {
+	color: #FFFFFF;
+}
+
+#social a:active {
+	color: #FFFFFF;
+}
+
+#teach {
+	background-image: url("../imgs/welcome.jpg");
+	background-position: right top;
+}
+
+#learn {
+	background-image: url("../imgs/learn.jpg");
+	background-position: right top;
+	background-size: cover;
+}
+
+#connect {
+	background-image: url("../imgs/connect.jpg");
+	background-position: right top;
+}
+
+#welcome {
+	background-image: url("../imgs/welcome.jpg");
+}
+
+#signup {
+	white-space: nowrap;
+	background-color: #A2B352;
+	text-align: center;
+	border: 2px solid #FFFFFF;
+	padding: 10px 20px 10px 20px;
+	margin: 0;
+	color: #FFFFFF;
+}
+
+.bg {
+	height: 550px;
+	background-size: cover;
+}
+
+td {
+	padding: 50px 100px 50px 100px;
+	margin: 100px 100px 100px 100px;
+}
+
+.text {
+	color: #FFFFFF;
+	font-size: 150%;
+}
+*/
